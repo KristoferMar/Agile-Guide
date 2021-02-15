@@ -1,6 +1,7 @@
 <h1>Agile-Guide</h1>
 
 <h2>Agile Retrospective</h2>
+The retrospective are there for us to reflect our last sprint. <br>
 
 Retrospective should only take around 30 minutes. <br>
 The retrospective should be consits of the following for the holder <br>
