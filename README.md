@@ -9,7 +9,9 @@ The retrospective should be consits of the following for the holder <br>
 - Whiteboard, stickynotes, timer, this can also come through Mural <br>
 
 2. Set the stage <br>
-- Remind everyone to keep an positive spririt and set the stage in a way so we are very clear that this is not a meeting where we 
+- Remind everyone to keep an positive spririt. <br> 
+- Set the stage in a way so we are very clear that this is a meeting for a productive feedback of the current work. <br>
+
 3. What went well <br>
 4. What needs improvements <br>
 5. Next stpes <br>
