@@ -12,6 +12,11 @@ The retrospective should be consits of the following for the holder <br>
 
 2. Set the stage <br>
 - Remind everyone to keep an positive spririt. <br> 
+- Don’t make it personal, don’t take it personally <br>
+- Listen with an open mind <br>
+- Everyone’s experience is valid <br>
+- Set the time period you’re discussing (last sprint, last quarter, entire project, etc.) <br>
+- Focus on improvement, rather than placing blame <br>
 - Set the stage in a way so we are very clear that this is a meeting for a productive feedback of the current work. <br>
 
 3. What went well <br>
