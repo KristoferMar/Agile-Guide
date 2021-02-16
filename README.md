@@ -3,6 +3,8 @@
 <h2>Agile Retrospective</h2>
 The retrospective are there for us to reflect our last sprint. <br>
 
+Identify how to improve teamwork by reflecting on what worked, what didn’t, and why. We recommend running a Retrospective with your team every couple of weeks or at the end of a project milestone. <br>
+
 Retrospective should only take around 30 minutes. <br>
 The retrospective should be consits of the following for the holder <br>
 1. Preparation <br>
